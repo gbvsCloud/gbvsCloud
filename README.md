@@ -1,3 +1,6 @@
-### Hi there 👋
+## Cloud - Gabriel Besson
+###  Programador amador
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbvsCloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Sempre programando aqui e alí
+
+[![gbvsCloud's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=57dc5e23-60c8-451a-a662-af6af224e809)](https://github.com/57dc5e23-60c8-451a-a662-af6af224e809/github-readme-stats)

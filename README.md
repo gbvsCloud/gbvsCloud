@@ -1,8 +1,6 @@
-Cl0ud </h1>
-Gabriel Besson
+Cl0ud - Gabriel Besson
 
 Programador amador
-
 Sempre programando aqui e alí
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbvsCloud&langs_count=8)](https://github.com/gbvsCloud/github-readme-stats)
